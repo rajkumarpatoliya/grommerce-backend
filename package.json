@@ -1,0 +1,19 @@
+{
+  "name": "grommerce-backend",
+  "version": "1.0.0",
+  "description": "Backend repository for Grommerce application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkumarpatoliya/grommerce-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkumarpatoliya/grommerce-backend/issues"
+  },
+  "homepage": "https://github.com/rajkumarpatoliya/grommerce-backend#readme"
+}
