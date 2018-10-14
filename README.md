@@ -1,2 +1,2 @@
 # grommerce-backend
-grommerce backend repsoitory
+Grommerce backend repsoitory
